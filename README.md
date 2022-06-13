@@ -9,10 +9,15 @@
 
 ## This writeup contains following chapters:
 setup
+
 file type of "leave_msg"
+
 reach EIP
+
 overwrite EIP and determine stack space size
+
 read file "/root/flag.txt"
+
 
 Setup
 
@@ -78,9 +83,13 @@ that's the answer we are looking for.
 
 Read file "/root/flag.txt"
 chapters :
+
 generate shellcode
+
 setup netcat listener
+
 run exploit
+
 
 Generate shellcode
 MSFvenom - standalone payload generator
